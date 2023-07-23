@@ -1,7 +1,0 @@
-Requirements:
-.Bat
-.Ball
-.Wickets
-.Helmet
-,Pads
-.Shoes
